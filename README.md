@@ -10,9 +10,9 @@ I'm a student at SMK Mahardhika Batujajar, majoring in Software Engineering. I'm
 
   ## 🚀 My Projects
 Here are some of the projects I've worked on:
-- [My Project in BBPPMPV BMTI](https://github.com/tgrstrya/PHP-PKL) - A survey website with PHP.
-- [My Final project in School](https://github.com/tgrstrya/TegarsatriaXIIRPL1) - A Todolist Website with PHP and Laravel.
-- [My Personal Website](https://github.com/tgrstrya/Personal) - My personal website built with HTML, CSS, and JavaScript.
+- [My Project in BBPPMPV BMTI](https://github.com/tegartzy/PHP-PKL) - A survey website with PHP.
+- [My Final project in School](https://github.com/tegartzy/TegarsatriaXIIRPL1) - A Todolist Website with PHP and Laravel.
+- [My Personal Website](https://github.com/tegartzy/Personal) - My personal website built with HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tegartzy&show_icons=true&theme=radical)
